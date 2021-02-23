@@ -1,3 +1,4 @@
+/**
 slowMath
   .add(6, 2)
   .then((mul) => {
@@ -37,7 +38,7 @@ slowMath
   })
   .catch((err) => {
     console.log(err);
-  });
+  });*/
 
 async function waitForMath() {
   try {
